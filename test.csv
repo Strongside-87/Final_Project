@@ -1,0 +1,101 @@
+Incident year,Primary Situation,count_pr_Situation_pr_year
+2014,113 Cooking fire,755
+2015,113 Cooking fire,798
+2016,113 Cooking fire,964
+2017,113 Cooking fire,900
+2018,113 Cooking fire,814
+2019,113 Cooking fire,816
+2020,113 Cooking fire,971
+2021,113 Cooking fire,846
+2022,113 Cooking fire,885
+2023,113 Cooking fire,280
+2014,151 Outside rubbish,471
+2015,151 Outside rubbish,762
+2016,151 Outside rubbish,739
+2017,151 Outside rubbish,771
+2018,151 Outside rubbish,789
+2019,151 Outside rubbish,766
+2020,151 Outside rubbish,1188
+2021,151 Outside rubbish,1402
+2022,151 Outside rubbish,1953
+2023,151 Outside rubbish,571
+2014,311 Medical assist,504
+2015,311 Medical assist,607
+2016,311 Medical assist,743
+2017,311 Medical assist,821
+2018,311 Medical assist,950
+2019,311 Medical assist,773
+2020,311 Medical assist,654
+2021,311 Medical assist,596
+2022,311 Medical assist,623
+2023,311 Medical assist,151
+2014,322 Motor vehicle accident with injuries,830
+2015,322 Motor vehicle accident with injuries,1454
+2016,322 Motor vehicle accident with injuries,1453
+2017,322 Motor vehicle accident with injuries,1410
+2018,322 Motor vehicle accident with injuries,1449
+2019,322 Motor vehicle accident with injuries,1369
+2020,322 Motor vehicle accident with injuries,1021
+2021,322 Motor vehicle accident with injuries,1241
+2022,322 Motor vehicle accident with injuries,1245
+2023,322 Motor vehicle accident with injuries,233
+2014,324 Motor vehicle accident with no injuries.,408
+2015,324 Motor vehicle accident with no injuries.,550
+2016,324 Motor vehicle accident with no injuries.,569
+2017,324 Motor vehicle accident with no injuries.,564
+2018,324 Motor vehicle accident with no injuries.,538
+2019,324 Motor vehicle accident with no injuries.,540
+2020,324 Motor vehicle accident with no injuries.,454
+2021,324 Motor vehicle accident with no injuries.,549
+2022,324 Motor vehicle accident with no injuries.,587
+2023,324 Motor vehicle accident with no injuries.,140
+2014,500 Service Call,928
+2015,500 Service Call,1874
+2016,500 Service Call,1577
+2017,500 Service Call,1806
+2018,500 Service Call,1321
+2019,500 Service Call,1459
+2020,500 Service Call,1472
+2021,500 Service Call,1566
+2022,500 Service Call,1324
+2023,500 Service Call,425
+2014,700 False alarm or false call,3168
+2015,700 False alarm or false call,3988
+2016,700 False alarm or false call,3886
+2017,700 False alarm or false call,4277
+2018,700 False alarm or false call,4094
+2019,700 False alarm or false call,4183
+2020,700 False alarm or false call,3252
+2021,700 False alarm or false call,2983
+2022,700 False alarm or false call,3016
+2023,700 False alarm or false call,718
+2014,711 Municipal alarm system,2872
+2015,711 Municipal alarm system,2587
+2016,711 Municipal alarm system,2766
+2017,711 Municipal alarm system,1514
+2018,711 Municipal alarm system,1953
+2019,711 Municipal alarm system,1576
+2020,711 Municipal alarm system,792
+2021,711 Municipal alarm system,520
+2022,711 Municipal alarm system,284
+2023,711 Municipal alarm system,63
+2014,743 Smoke detector activation,834
+2015,743 Smoke detector activation,1240
+2016,743 Smoke detector activation,1380
+2017,743 Smoke detector activation,1182
+2018,743 Smoke detector activation,1410
+2019,743 Smoke detector activation,1407
+2020,743 Smoke detector activation,1408
+2021,743 Smoke detector activation,1531
+2022,743 Smoke detector activation,1769
+2023,743 Smoke detector activation,506
+2014,745 Alarm system activation,1722
+2015,745 Alarm system activation,2426
+2016,745 Alarm system activation,2900
+2017,745 Alarm system activation,3384
+2018,745 Alarm system activation,3139
+2019,745 Alarm system activation,3373
+2020,745 Alarm system activation,3304
+2021,745 Alarm system activation,3894
+2022,745 Alarm system activation,4247
+2023,745 Alarm system activation,1188
